@@ -20,4 +20,9 @@ Coming soon ...
 
 
 ## Diversity Evaluations
-TBA
+See `eval_diversity` directory for code relevant to this. Example scripts for four 
+models (from HuggingFace) are available. Run as follows:
+
+```bash
+python sdxl_turbo.py
+``` 
