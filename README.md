@@ -6,7 +6,7 @@
 ## Overview
 
 LatentCRF is a plug-in module that can be used for image generative tasks. 
-Its architecture is motivated from prior about the natural image distribution
+Its architecture is motivated from priors about the natural image distribution
 used in conditional random fields. In this repository, we present basic code 
 blocks to use the LatentCRF module. 
 
